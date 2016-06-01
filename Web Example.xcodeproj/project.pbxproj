@@ -467,7 +467,7 @@
 				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = EE.WeatherApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "EE.Web-Example";
 				PRODUCT_NAME = "Web Example";
 				SWIFT_OBJC_BRIDGING_HEADER = bridge.h;
 			};
@@ -480,7 +480,7 @@
 				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = WeatherApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = EE.WeatherApp;
+				PRODUCT_BUNDLE_IDENTIFIER = "EE.Web-Example";
 				PRODUCT_NAME = "Web Example";
 				SWIFT_OBJC_BRIDGING_HEADER = bridge.h;
 			};
