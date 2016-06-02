@@ -1,8 +1,8 @@
 //
-//  AppDelegate.swift
+//  ViewController.swift
 //  WeatherApp
 //
-//  Created by Brannen Clark on 6/1/16.
+//  Created by Brannen Clark 6/1/16.
 //  Copyright © 2016 Electricfish Electroincs. All rights reserved.
 //
 

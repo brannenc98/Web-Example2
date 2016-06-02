@@ -2,7 +2,7 @@
 //  WeatherAppTests.swift
 //  WeatherAppTests
 //
-//  Created by Jinyu Liu on 5/25/16.
+//  Created by Brannen Clark 6/1/16.
 //  Copyright © 2016 Electricfish Electroincs. All rights reserved.
 //
 
